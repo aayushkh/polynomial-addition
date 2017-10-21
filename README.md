@@ -1,3 +1,3 @@
 # Becoming A Legend
 
-This are my Course Projects related to CSCI 455x : Programming System Design
+This are my course projects related to CSCI 455x : Programming System Design
