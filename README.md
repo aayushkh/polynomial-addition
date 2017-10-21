@@ -1,3 +1,3 @@
-# Becoming A Legend
+# PolynomialAddition
 
-This are my course projects related to CSCI 455x : Programming System Design
+Course - CSCI 455x:Programming System Design
