@@ -1,2 +1,2 @@
-# BecommingALegend
+# BecomingALegend
 Homecoming for Course Projects
